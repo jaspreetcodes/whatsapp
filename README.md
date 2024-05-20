@@ -4,7 +4,11 @@ This is an individual project created by me from my two different GitHub account
 The latest correct code is present in the: sidebarLastMessage branch.
 - This web app allows users to register with verified emails, bypassing WhatsApp's contact list requirement. As it is developed individually within budget constraints, it can handle a limited number of user requests of 40,000 per day. 
 - However, it ensures secure user authorization and offers features like one-on-one/group chats, profile updates, message notifications, and attachments, resembling WhatsApp's UI.
-- Tech stack: ReactJs, Firebase, HTML, CSS, Bootstrap. To open the live web app go here: https://jaspreets-whatsapp-clone.netlify.app/
+- Tech stack: ReactJs, Firebase, HTML, CSS, Bootstrap. To open the live web app go here: https://jaspreet-chat-app.netlify.app/
+
+## Screenshots
+![Screenshot (588)](https://github.com/jaspreetcodes/whatsapp/assets/60167242/990af9b1-bf60-45d3-aba3-547313ac865c)
+![Screenshot (589)](https://github.com/jaspreetcodes/whatsapp/assets/60167242/cb8af6fe-43d3-4b34-9e43-2b6cbc6ed5e8)
 
 ## Problem Statement
 
@@ -37,7 +41,7 @@ The main features of this web app are:
    
 ## Live Working Web App Link
 
-You can access the live working web app here: https://jaspreets-whatsapp-clone.netlify.app/
+You can access the live working web app here: https://jaspreet-chat-app.netlify.app/
 
 ## Github Code Files Link
 
