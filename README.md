@@ -1,6 +1,6 @@
 # Whatsapp Clone
 
-This is an individual project created by me from my two different GitHub accounts: jaspreetcodes and jaspreetchicmic.
+This is an individual project I created from two different GitHub accounts: jaspreetcodes and jaspreetchicmic.
 The latest correct code is present in the: sidebarLastMessage branch.
 - This web app allows users to register with verified emails, bypassing WhatsApp's contact list requirement. As it is developed individually within budget constraints, it can handle a limited number of user requests of 40,000 per day. 
 - However, it ensures secure user authorization and offers features like one-on-one/group chats, profile updates, message notifications, and attachments, resembling WhatsApp's UI.
@@ -33,9 +33,9 @@ The main features of this web app are:
 - Group chat with multiple users
 - Group creation and update
 - Profile update
-- Attachment and emoji sending options
+- Attachment and emoji-sending options
 - User-friendly and easy-to-understand UI
-- Chats sorted based on latest messages and other relevant activities with unseen message counter badge
+- Chats sorted based on the latest messages and other relevant activities with unseen message counter badge
 - Sorted sidebar based on recent messages
 - and much more
    
@@ -43,7 +43,7 @@ The main features of this web app are:
 
 You can access the live working web app here: https://jaspreet-chat-app.netlify.app/
 
-## Github Code Files Link
+## GitHub Code Files Link
 
 You can access the Github code files here: https://github.com/jaspreetcodes/whatsapp/
 
@@ -59,4 +59,4 @@ To run this project on your local machine, follow these steps:
 
 ## Conclusion
 
-The WhatsApp Clone is a web app that solves the problem of WhatsApp not running with email and requiring users to add contacts to their phone's contact list to chat. It allows users to register through their verified emails and enables them to chat with anyone who is on the app. The app provides various features like one-on-one chat, group chat, group creation, group update, profile update, message notification, attachment and emoji sending options through a user-friendly and easy-to-understand UI of WhatsApp. The project is built using ReactJs for the frontend, Firebase for the backend, and HTML, CSS, and Bootstrap for the UI.
+The WhatsApp Clone is a web app that solves the problem of WhatsApp not running with email and requiring users to add contacts to their phone's contact list to chat. It allows users to register through their verified emails and enables them to chat with anyone on the app. The app provides various features like one-on-one chat, group chat, group creation, group update, profile update, message notification, attachment, and emoji sending options through a user-friendly and easy-to-understand UI of WhatsApp. The project is built using ReactJs for the front end, Firebase for the backend, and HTML, CSS, and Bootstrap for the UI.
